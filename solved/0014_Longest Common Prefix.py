@@ -62,4 +62,3 @@ for x in range(tries):
 
 print()
 print(f'average runtime: {format(round(timesum/tries,10),".10f")}')
-# average runtime by 1.000.000 tries: ....

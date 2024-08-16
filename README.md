@@ -3,6 +3,7 @@
 | no.  | Title                 | lvl  | comments                                                            |
 | ---- | --------------------- | ---- | ------------------------------------------------------------------- |
 | 0001 | Two Sum               | Easy |                                                                     |
+| 0002 | Add Two Numbers       | Med. |                                                                     |
 | 0013 | Roman to Integer (1)  | Easy | Counts each roman, replaces it with '' and adds up                  |
 | 0013 | Roman to Integer (2)  | Easy | Iters through dict with romans, counts, replaces and adds up        |
 | 0013 | Roman to Integer (3)  | Easy | Iters through string first checks 2digit-romans, adds up            |

@@ -15,3 +15,4 @@
 | 0026 | Remove Duplicates from Sorted Array (2)            | Easy | iters through List + Pointer, set different value to pointer        |
 | 0028 | Find the Index of the First Occurrence in a String | Easy |                                                                     |
 | 0066 | Plus One                                           | Easy |                                                                     |
+| 0069 | Sqrt(x)                                            | Easy |                                                                                                                                         |

@@ -17,3 +17,5 @@
 | 0066 | Plus One                                           | Easy |                                                                     |
 | 0069 | Sqrt(x)                                            | Easy |                                                                     |
 | 0070 | Climbing Stairs                                    | Easy |                                                                     |
+| 0088 | Merge Sorted Array (1)                             | Easy | iters through nums2, changes nums1[m+i] and nums1.sort()            |
+| 0088 | Merge Sorted Array (2) [UN-ACCEPTED]               | Easy | iters through nums1/nums2, compares and .insert ... .pop() last 0   |

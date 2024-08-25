@@ -1,9 +1,10 @@
 ##  Documentation of Solutions
+
+### Easy
    
 | no.  | Title                                              | lvl  | comments                                                            |
 | ---- | -------------------------------------------------- | ---- | ------------------------------------------------------------------- |
 | 0001 | Two Sum                                            | Easy |                                                                     |
-| 0002 | Add Two Numbers                                    | Med. |                                                                     |
 | 0013 | Roman to Integer (1)                               | Easy | Counts each roman, replaces it with '' and adds up                  |
 | 0013 | Roman to Integer (2)                               | Easy | Iters through dict with romans, counts, replaces and adds up        |
 | 0013 | Roman to Integer (3)                               | Easy | Iters through string first checks 2digit-romans, adds up            |
@@ -20,3 +21,17 @@
 | 0088 | Merge Sorted Array (1)                             | Easy | iters through nums2, changes nums1[m+i] and nums1.sort()            |
 | 0088 | Merge Sorted Array (2) [UN-ACCEPTED]               | Easy | iters through nums1/nums2, compares and .insert ... .pop() last 0   |
 | 0094 | Binary Tree Inorder Traversal                      | Easy |                                                                     |
+
+###  Medium
+   
+| no.  | Title                                              | lvl  | comments                                                            |
+| ---- | -------------------------------------------------- | ---- | ------------------------------------------------------------------- |
+| 0002 | Add Two Numbers                                    | Med. |                                                                     |
+| 0003 | Longest Substring Without Repeating Characters     | Med. |                                                                     |
+
+###  Hard
+   
+| no.  | Title                                              | lvl  | comments                                                            |
+| ---- | -------------------------------------------------- | ---- | ------------------------------------------------------------------- |
+| 0004 | Median of Two Sorted Arrays                        | Hard |                                                                     |
+

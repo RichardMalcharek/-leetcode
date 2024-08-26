@@ -22,12 +22,15 @@
 | 0088 | Merge Sorted Array (2) [UN-ACCEPTED]               | Easy | iters through nums1/nums2, compares and .insert ... .pop() last 0   |
 | 0094 | Binary Tree Inorder Traversal                      | Easy |                                                                     |
 
+
 ###  Medium
    
 | no.  | Title                                              | lvl  | comments                                                            |
 | ---- | -------------------------------------------------- | ---- | ------------------------------------------------------------------- |
 | 0002 | Add Two Numbers                                    | Med. |                                                                     |
 | 0003 | Longest Substring Without Repeating Characters     | Med. |                                                                     |
+| 0004 | Longest Palindromic Substring                      | Med. |                                                                     |
+
 
 ###  Hard
    

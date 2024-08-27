@@ -29,7 +29,8 @@
 | ---- | -------------------------------------------------- | ---- | ------------------------------------------------------------------- |
 | 0002 | Add Two Numbers                                    | Med. |                                                                     |
 | 0003 | Longest Substring Without Repeating Characters     | Med. |                                                                     |
-| 0004 | Longest Palindromic Substring                      | Med. |                                                                     |
+| 0005 | Longest Palindromic Substring                      | Med. |                                                                     |
+| 0007 | Reverse Integer                                    | Med. |                                                                     |
 
 
 ###  Hard

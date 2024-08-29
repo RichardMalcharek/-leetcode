@@ -28,6 +28,7 @@
 | 0005 | Longest Palindromic Substring                      | Med. |
 | 0006 | Zigzag Conversion                                  | Med. |
 | 0007 | Reverse Integer                                    | Med. |
+| 0008 | String to Integer (atoi)                           | Med. |
 |                                                                  |
 | **H A R D**                                                      |
 | 0004 | Median of Two Sorted Arrays                        | Hard |

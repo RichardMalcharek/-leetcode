@@ -29,6 +29,9 @@
 | 0006 | Zigzag Conversion                                  | Med. |
 | 0007 | Reverse Integer                                    | Med. |
 | 0008 | String to Integer (atoi)                           | Med. |
+| 0011 | Container With Most Water (1)                      | Med. |
+| 0011 | Container With Most Water (2)                      | Med. |
+| 0011 | Container With Most Water (3)                      | Med. |
 |                                                                  |
 | **H A R D**                                                      |
 | 0004 | Median of Two Sorted Arrays                        | Hard |

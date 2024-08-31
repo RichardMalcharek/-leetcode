@@ -32,6 +32,9 @@
 | 0011 | Container With Most Water (1)                      | Med. |
 | 0011 | Container With Most Water (2)                      | Med. |
 | 0011 | Container With Most Water (3)                      | Med. |
+| 0015 | 3Sum (1)  [TIME-LIMIT-EXCEEDED]                    | Med. |
+| 0015 | 3Sum (2)  [TIME-LIMIT-EXCEEDED]                    | Med. |
+| 0015 | 3Sum (3)                                           | Med. |
 |                                                                  |
 | **H A R D**                                                      |
 | 0004 | Median of Two Sorted Arrays                        | Hard |

@@ -35,6 +35,7 @@
 | 0015 | 3Sum (1)  [TIME-LIMIT-EXCEEDED]                    | Med. |
 | 0015 | 3Sum (2)  [TIME-LIMIT-EXCEEDED]                    | Med. |
 | 0015 | 3Sum (3)                                           | Med. |
+| 0017 | Letter Combinations of a Phone Number              | Med. |
 |                                                                  |
 | **H A R D**                                                      |
 | 0004 | Median of Two Sorted Arrays                        | Hard |

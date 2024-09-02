@@ -5,6 +5,7 @@
 |                                                                  |
 | **E A S Y**                                                      |
 | 0001 | Two Sum                                            | Easy |
+| 0009 | Palindrome Number                                  | Easy |
 | 0013 | Roman to Integer (1)                               | Easy | 
 | 0013 | Roman to Integer (2)                               | Easy | 
 | 0013 | Roman to Integer (3)                               | Easy | 

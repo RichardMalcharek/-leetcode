@@ -38,6 +38,7 @@
 | 0015 | 3Sum (3)                                           | Med. |
 | 0017 | Letter Combinations of a Phone Number              | Med. |
 | 0018 | 4Sum                                               | Med. |
+| 0874 | Walking Robot Simulation                           | Med. |
 |                                                                  |
 | **H A R D**                                                      |
 | 0004 | Median of Two Sorted Arrays                        | Hard |

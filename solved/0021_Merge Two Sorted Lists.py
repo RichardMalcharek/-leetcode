@@ -40,6 +40,10 @@ class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
+    def printNod(list):
+        while list:
+            print(list.val)
+            list = list.next
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
 
@@ -79,16 +83,16 @@ for x in range(tries):
 
     l1 = create_listnode([1,2,4])
     l2 = create_listnode([1,3,4])
-    print(solution.mergeTwoLists(l1,l2))    # 1,1,2,3,4,4
+    ListNode.printNod(solution.mergeTwoLists(l1,l2))    # 1,1,2,3,4,4
     
 
     l1 = create_listnode([])
     l2 = create_listnode([])
-    print(solution.mergeTwoLists(l1,l2))    # ''
+    ListNode.printNod(solution.mergeTwoLists(l1,l2))    # ''
 
     l1 = create_listnode([])
     l2 = create_listnode([0])
-    print(solution.mergeTwoLists(l1,l2))    # 0
+    ListNode.printNod(solution.mergeTwoLists(l1,l2))    # 0
 
     end_time = time.time()
     timesum += end_time - start_time

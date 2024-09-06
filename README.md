@@ -42,6 +42,7 @@
 | 2028 | Find Missing Observations (1) [MEMORY-LIMIT-EXCEEDED] | Med. |
 | 2028 | Find Missing Observations (2) [TIME-LIMIT-EXCEEDED]   | Med. |
 | 2028 | Find Missing Observations (3)                         | Med. |
+| 3217 | Delete Nodes From Linked List Present in Array        | Med. |
 |                                                                     |
 | **H A R D**                                                         |
 | 0004 | Median of Two Sorted Arrays                           | Hard |

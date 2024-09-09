@@ -38,10 +38,12 @@
 | 0015 | 3Sum (3)                                              | Med. |
 | 0017 | Letter Combinations of a Phone Number                 | Med. |
 | 0018 | 4Sum                                                  | Med. |
+| 0725 | Split Linked List in Parts                            | Med. |
 | 0874 | Walking Robot Simulation                              | Med. |
 | 2028 | Find Missing Observations (1) [MEMORY-LIMIT-EXCEEDED] | Med. |
 | 2028 | Find Missing Observations (2) [TIME-LIMIT-EXCEEDED]   | Med. |
 | 2028 | Find Missing Observations (3)                         | Med. |
+| 2326 | Spiral Matrix IV                                      | Med. |
 | 3217 | Delete Nodes From Linked List Present in Array        | Med. |
 |                                                                     |
 | **H A R D**                                                         |

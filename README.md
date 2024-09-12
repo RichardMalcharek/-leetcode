@@ -22,6 +22,7 @@
 | 0088 | Merge Sorted Array (1)                                | Easy |
 | 0088 | Merge Sorted Array (2) [UN-ACCEPTED]                  | Easy |
 | 0094 | Binary Tree Inorder Traversal                         | Easy |
+| 1684 | Count the Number of Consistent Strings                | Easy |
 |                                                                     |
 | **M E D I U M**                                                     |
 | 0002 | Add Two Numbers                                       | Med. |

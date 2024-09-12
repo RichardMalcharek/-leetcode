@@ -23,6 +23,7 @@
 | 0088 | Merge Sorted Array (2) [UN-ACCEPTED]                  | Easy |
 | 0094 | Binary Tree Inorder Traversal                         | Easy |
 | 1684 | Count the Number of Consistent Strings                | Easy |
+| 1945 | Sum of Digits of String After Convert                 | Easy |
 |                                                                     |
 | **M E D I U M**                                                     |
 | 0002 | Add Two Numbers                                       | Med. |
@@ -41,6 +42,7 @@
 | 0018 | 4Sum                                                  | Med. |
 | 0725 | Split Linked List in Parts                            | Med. |
 | 0874 | Walking Robot Simulation                              | Med. |
+| 1894 | Find the Student that Will Replace the Chalk          | Med. |
 | 2028 | Find Missing Observations (1) [MEMORY-LIMIT-EXCEEDED] | Med. |
 | 2028 | Find Missing Observations (2) [TIME-LIMIT-EXCEEDED]   | Med. |
 | 2028 | Find Missing Observations (3)                         | Med. |

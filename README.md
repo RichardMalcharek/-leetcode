@@ -15,6 +15,7 @@
 | 0021 | Merge Two Sorted Lists                                | Easy |
 | 0026 | Remove Duplicates from Sorted Array (1)               | Easy |
 | 0026 | Remove Duplicates from Sorted Array (2)               | Easy |
+| 0027 | Remove Element                                        | Easy |
 | 0028 | Find the Index of the First Occurrence in a String    | Easy |
 | 0066 | Plus One                                              | Easy |
 | 0069 | Sqrt(x)                                               | Easy |
@@ -42,6 +43,7 @@
 | 0018 | 4Sum                                                  | Med. |
 | 0725 | Split Linked List in Parts                            | Med. |
 | 0874 | Walking Robot Simulation                              | Med. |
+| 1310 | XOR Queries of a Subarray                             | Med. |
 | 1894 | Find the Student that Will Replace the Chalk          | Med. |
 | 2028 | Find Missing Observations (1) [MEMORY-LIMIT-EXCEEDED] | Med. |
 | 2028 | Find Missing Observations (2) [TIME-LIMIT-EXCEEDED]   | Med. |

@@ -25,6 +25,7 @@
 | 0094 | Binary Tree Inorder Traversal                         | Easy |
 | 1684 | Count the Number of Consistent Strings                | Easy |
 | 1945 | Sum of Digits of String After Convert                 | Easy |
+| 2022 | Convert 1D Array Into 2D Array                        | Easy |
 |                                                                     |
 | **M E D I U M**                                                     |
 | 0002 | Add Two Numbers                                       | Med. |
@@ -50,6 +51,7 @@
 | 2028 | Find Missing Observations (3)                         | Med. |
 | 2220 | Minimum Bit Flips to Convert Number                   | Med. |
 | 2326 | Spiral Matrix IV                                      | Med. |
+| 2419 | Longest Subarray With Maximum Bitwise AND             | Med. |
 | 2807 | Insert Greatest Common Divisors in Linked List        | Med. |
 | 3217 | Delete Nodes From Linked List Present in Array        | Med. |
 |                                                                     |

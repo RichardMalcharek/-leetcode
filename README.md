@@ -45,6 +45,7 @@
 | 0725 | Split Linked List in Parts                            | Med. |
 | 0874 | Walking Robot Simulation                              | Med. |
 | 1310 | XOR Queries of a Subarray                             | Med. |
+| 1371 | Find the Longest Substring Containing Vowels in Even Counts | Med. |
 | 1894 | Find the Student that Will Replace the Chalk          | Med. |
 | 2028 | Find Missing Observations (1) [MEMORY-LIMIT-EXCEEDED] | Med. |
 | 2028 | Find Missing Observations (2) [TIME-LIMIT-EXCEEDED]   | Med. |

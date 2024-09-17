@@ -52,7 +52,7 @@ class ListNode:
             list = list.next
         print()
 class Solution:
-    def create_listnode(values):
+    def create_listnode(self, values):
         if not values:
             return None
         head = ListNode(values[0])
@@ -63,13 +63,13 @@ class Solution:
         return head
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         if len(lists) == 0:
-            return ListNode([])
+            return self.create_listnode([])
         elif len(lists) == 1:
-            return lists[0]
+            return self.create_listnode(lists[0])
         else:
-            head_result = lists[0]
+            head_result = self.create_listnode(lists[0])
             for i in range(1,len(lists)):
-                head = lists[i]
+                head = self.create_listnode(lists[])
 
                 if head_result.val > head.val:
                     stack = head_result
@@ -99,12 +99,6 @@ class Solution:
             return head_result
 
 
-
-
-
-
-        
-    
 
 solution = Solution()
 

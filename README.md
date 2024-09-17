@@ -43,6 +43,10 @@
 | 0017 | Letter Combinations of a Phone Number                       | Med. |
 | 0018 | 4Sum                                                        | Med. |
 | 0019 | Remove Nth Node From End of List                            | Med. |
+| 0029 | Divide Two Integers (1) [TIME-LIMIT-EXCEEDED]               | Med. |
+| 0029 | Divide Two Integers (2)                                     | Med. |
+| 0049 | Group Anagrams                                              | Med. |
+| 0050 | Pow(x, n)                                                   | Med. |
 | 0539 | Minimum Time Difference                                     | Med. |
 | 0725 | Split Linked List in Parts                                  | Med. |
 | 0874 | Walking Robot Simulation                                    | Med. |

@@ -49,6 +49,7 @@
 | 0050 | Pow(x, n)                                                   | Med. |
 | 0179 | Largest Number (1)                                          | Med. |
 | 0179 | Largest Number (2)                                          | Med. |
+| 0386 | Lexicographical Numbers                                     | Med. |
 | 0539 | Minimum Time Difference                                     | Med. |
 | 0725 | Split Linked List in Parts                                  | Med. |
 | 0874 | Walking Robot Simulation                                    | Med. |

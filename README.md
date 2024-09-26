@@ -52,6 +52,7 @@
 | 0386 | Lexicographical Numbers                                     | Med. |
 | 0539 | Minimum Time Difference                                     | Med. |
 | 0725 | Split Linked List in Parts                                  | Med. |
+| 0729 | My Calendar I                                               | Med. |
 | 0874 | Walking Robot Simulation                                    | Med. |
 | 1310 | XOR Queries of a Subarray                                   | Med. |
 | 1371 | Find the Longest Substring Containing Vowels in Even Counts | Med. |

@@ -74,4 +74,4 @@
 | 0023 | Merge k Sorted Lists (2) [UN_ACCEPTED]                      | Hard |
 | 0023 | Merge k Sorted Lists (3)                                    | Hard |
 | 0214 | Shortest Palindrome                                         | Hard |
-
+| 0432 | All O`one Data Structure                                    | Hard |

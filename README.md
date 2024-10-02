@@ -23,9 +23,11 @@
 | 0088 | Merge Sorted Array (1)                                      | Easy |
 | 0088 | Merge Sorted Array (2) [UN-ACCEPTED]                        | Easy |
 | 0094 | Binary Tree Inorder Traversal                               | Easy |
+| 1331 | Rank Transform of an Array                                  | Easy |
 | 1684 | Count the Number of Consistent Strings                      | Easy |
 | 1945 | Sum of Digits of String After Convert                       | Easy |
 | 2022 | Convert 1D Array Into 2D Array                              | Easy |
+| 3110 | Score of a String                                           | Easy |
 |                                                                           |
 | **M E D I U M**                                                           |
 | 0002 | Add Two Numbers                                             | Med. |

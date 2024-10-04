@@ -66,6 +66,7 @@
 | 2220 | Minimum Bit Flips to Convert Number                         | Med. |
 | 2326 | Spiral Matrix IV                                            | Med. |
 | 2419 | Longest Subarray With Maximum Bitwise AND                   | Med. |
+| 2491 | Divide Players Into Teams of Equal Skill                    | Med. |
 | 2807 | Insert Greatest Common Divisors in Linked List              | Med. |
 | 3043 | Find the Length of the Longest Common Prefix                | Med. |
 | 3217 | Delete Nodes From Linked List Present in Array              | Med. |

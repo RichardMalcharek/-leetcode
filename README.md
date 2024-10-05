@@ -53,6 +53,7 @@
 | 0179 | Largest Number (2)                                          | Med. |
 | 0386 | Lexicographical Numbers                                     | Med. |
 | 0539 | Minimum Time Difference                                     | Med. |
+| 0567 | Permutation in String                                       | Med. |
 | 0725 | Split Linked List in Parts                                  | Med. |
 | 0729 | My Calendar I                                               | Med. |
 | 0731 | My Calendar II                                              | Med. |
